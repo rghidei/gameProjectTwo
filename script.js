@@ -10,7 +10,7 @@
 // } else{
 //   console.log("You're out of the Game! 😭")
 // }
-//1.
+
 // 1. Create two variables, firstCard and secondCard.
 // Set their values to a random number between 2-11
 
